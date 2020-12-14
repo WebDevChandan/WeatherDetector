@@ -3,7 +3,7 @@
 
   Project Name : Weather Detector WebApplication       
   Creator : WebDevChandan 		                     
-  Site : webdevchandan.hawkviewer.com           
+  Site : https://webdevchandan.hawkviewer.com/           
   API Used From: https://openweathermap.org/api
   License : Creative Commons Attribution License   
   Share and Use This With Proper Credit. 
